@@ -1,0 +1,6 @@
+@KOL_PRZYKLADOWE_POPRAWA_HostAddress = http://localhost:5205
+
+GET {{KOL_PRZYKLADOWE_POPRAWA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
